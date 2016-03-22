@@ -8,7 +8,7 @@ This is an at-home exercise that we use as part of our standard interview proces
 
 * For each question, please download any associated files. 
 * Write queries, scripts, or write ups as prompted to answer the questions listed below
-* Email your responses to careers@datascience.com with subject line "Analysis Intern Assessment"
+* Email your responses to analysisassessment@datascience.com. with subject line "Analysis Intern Assessment"
 * If we haven't already received it, please attach your resume to your email.
 * You may use any resources you like to complete this.  For a simple solution, consider http://sqlfiddle.com/ or SQLite
 * On sql related questions, we are looking for your ability to understand a schema that has incomplete documentation. We are also looking for diligence and attention to detail.
