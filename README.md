@@ -15,7 +15,7 @@ This is an at-home exercise that we use as part of our standard interview proces
 
 ## Questions
 
-1: Looking at the question_1.sql file, you'll find 3 tables: transaction_type, status_type, and transactions. Using the transactions table and the information provided in the lookups, please answer the following question: Calculate the average time between a customer's second to last to purchase and the cancellation of their account.
+1: Looking at the question_1.sql file, you'll find 3 tables: transaction_type, status_type, and transactions. Using the transactions table and the information provided in the lookups, please answer the following question: Calculate the average time between a customer's second to last purchase and the cancellation of their account.
 
 The python code below might help make the sql data more accessible:
 
