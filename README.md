@@ -35,7 +35,7 @@ data = c.fetchall()
 ```
 
 
-2: Write a method that gives the OLS estimate and variance for the parameters of a linear model, using numpy or other libraries to store array types. Report the results of your estimates using data found in `question_2.csv`.
+2: Write a method that gives the OLS estimate and variance for the parameters of a linear model, ONLY using numpy or other libraries to store array types. Report the results of your estimates using data found in `question_2.csv`.
 
 3: Write a function that takes a list and returns the frequency count of each element in the list.
 
