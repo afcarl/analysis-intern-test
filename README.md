@@ -35,9 +35,9 @@ data = c.fetchall()
 ```
 
 
-2: Write a method that gives the OLS estimate and variance for the parameters of a linear model, ONLY using numpy or other libraries to store array types. Report the results of your estimates using data found in `question_2.csv`.
+2: Write a method in Python that gives the OLS estimate and variance for the parameters of a linear model, ONLY using numpy or other libraries to store array types. Report the results of your estimates using data found in `question_2.csv`.
 
-3: Write a function that takes a list and returns the frequency count of each element in the list.
+3: Write a Python function that takes a list and returns the frequency count of each element in the list.
 
 4: Given the probability distribution found in `question_4.py` (x -> p(x)), compute the expected value and entropy.
 
